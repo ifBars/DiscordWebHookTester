@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iszMOL4XWqq7pqnWgPvoAZEkB7XeApwSgR4zfPDqYSF6MmUFMe+Nf8psUo4Urvaqg1rdHeHsouYkJnputIUrDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghost\\source\\repos\\DiscordWebHookTester\\DiscordWebHookTester\\DiscordWebHookTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghost\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
